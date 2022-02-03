@@ -5,16 +5,6 @@ permalink: /about/
 tags: about
 ---
 
-This Jekyll theme was crafted with <3 by [John Otander](http://johnotander.com)
-([@4lpine](https://twitter.com/4lpine)).
+2015 yılında Işık Üniversitesi bilgisayar mühendisliği bölümünden mezun oldum ve o zamandan beri de bilgisayar mühendisi olarak çalışma hayatıma devam ediyorum. Eylül 2016'da bilgisayar mühendisliği tezli yüksek lisans programına başladım, Eylül 2019'da da tamamladım.
 
-Checkout the [Github repository](https://github.com/johnotander/pixyll) to download it,
-request a feature, report a bug, or contribute. It's free, and open source
-([MIT](http://opensource.org/licenses/MIT)).
-
-Thanks to the following:
-
-* [BASSCSS](http://basscss.com)
-* [Jekyll](http://jekyllrb.com)
-* [Refills](http://refills.bourbon.io/)
-* [Type Scale](http://type-scale.com/)
+Bu websitesini biraz playground olarak kullanmayı hedefliyorum. Yani frontend, backend ve devOps denemelerimi bu websitesi üzerinde deneyip çalıştırmak istiyorum hem de bunları yaparken kazandığım deneyimlerimi burada paylaşmak istiyorum. Sadece burada kazandıklarımı değil, aynı zamanda profesyonel ve akademik alanda öğrendiklerimi de paylaşmayı umuyorum. Bu paylaşımlarım ansiklopedik bilgi ve ya tutorial olarak değil, daha çok yazılımcıların kendi aralarında yaptığı sohbetler tadında olmasını bekliyorum.
