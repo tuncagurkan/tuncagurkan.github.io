@@ -15,4 +15,4 @@ Evet yazılım dedik, denemeler dedik ama elbette bu işleri biraz da akademik b
 
 Peki yazılım olarak nelerden bahsederiz? Açıkcası bu o yazının yazılırken benim hangi alanlar ile ilgilendiğimle birebir aynı doğrultuda olacaktır. Şu sıralar microservice mimarisi ve Java Spring framework'ü ile çok ilgileniyorum. Ancak geçmişe bakacak olursak Azure, AWS (Amazon Web Services), .NET, Nodejs, Angular gibi farklı konularla da ilgilendiğimi düşünecek olursak, belki biraz geçmiş bilgilerimi tazeleyip onlardan da bahsedebilirim. 
 
-Evet, ilk yazı için bu kadar gevezelik ve spoiler yeterli. Şimdilik hoşçakalın!
+Evet, ilk yazı için bu kadar gevezelik ve spoiler yeterli. Şimdilik hoşçakalın!!
